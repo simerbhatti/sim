@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(221, 230, 173);
+}
+
+h1 {
+    color: blue;
+    text-align: left;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+button {
+    color: red;
+}
